@@ -7,6 +7,7 @@ public class Main {
         Random random = new Random();
 
         String[] aslab = {"Mas Ken", "Mas Zamzam", "Mas Rafi", "Mas Umam"};
+        String lagi = "Kocok lagi!";
 
         System.out.println("╔════════════════════════════════════╗");
         System.out.println("║   SIAPA ASLAB HARI INI?            ║");
