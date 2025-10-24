@@ -6,7 +6,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         Random random = new Random();
 
-        String[] aslab = {"Mas Ken", "Mas Zamzam", "Mas Rafi", "Mas Umam", "Mas Rama"};
+        String[] aslab = {"Mas Ken", "Mas Zamzam", "Mas Rafi", "Mas Umam", "Mas Rama", "Mas Krisna"};
 
         System.out.println("╔════════════════════════════════════╗");
         System.out.println("║   SIAPA ASLAB HARI INI?            ║");
